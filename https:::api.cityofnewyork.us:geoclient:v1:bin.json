@@ -1,0 +1,9 @@
+https://api.cityofnewyork.us/geoclient/v1/bin.json?bin=1013659&app_id=7180039f&app_key=98695d43625e3894eebdd7ae27ba19a2
+
+
+
+GEOCODING: 
+
+"https://api.cityofnewyork.us/geoclient/v1/address.json?houseNumber=" + cells["housenumber"].value + "&street=" + escape(value,'url') + "&zip=" + cells["zip"].value + "&app_id=7180039f&app_key=98695d43625e3894eebdd7ae27ba19a2"
+
+https://api.cityofnewyork.us/geoclient/v1/doc
